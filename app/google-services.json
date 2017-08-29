@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "483807930914",
+    "firebase_url": "https://toiletfinder-a968c.firebaseio.com",
+    "project_id": "toiletfinder-a968c",
+    "storage_bucket": "toiletfinder-a968c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483807930914:android:fd5daf4b7dad192b",
+        "android_client_info": {
+          "package_name": "zappby.toilet_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483807930914-t5a03ted5akco6limt8t1k3hi4p4t8rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zappby.toilet_finder",
+            "certificate_hash": "c0c9f2359fae50a4efff46603fe646eb3fc266aa"
+          }
+        },
+        {
+          "client_id": "483807930914-2293i3vh02so5e19090uc4s5hcldk6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusw-BeURCaLBGcBvu7gatc03oh_Y2GiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483807930914-2293i3vh02so5e19090uc4s5hcldk6lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483807930914:android:37b5f8536313c9e4",
+        "android_client_info": {
+          "package_name": "com.zappby.tolietfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483807930914-342mftf5djbrsk5j6eaunp5caibc84pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zappby.tolietfinder",
+            "certificate_hash": "c0c9f2359fae50a4efff46603fe646eb3fc266aa"
+          }
+        },
+        {
+          "client_id": "483807930914-2293i3vh02so5e19090uc4s5hcldk6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusw-BeURCaLBGcBvu7gatc03oh_Y2GiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483807930914-2293i3vh02so5e19090uc4s5hcldk6lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
